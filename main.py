@@ -60,7 +60,7 @@ def menu():
 
     print("Bienvenido al Spoofer de SMS")
     print("Spoofer de SMS creado con fines educativos")
-    print("\npor Defaultik\n")
+    print("\nby uid90\n")
 
     imprimir_opciones("Número de teléfono", "Envío masivo", "Contactos", "Cambiar credenciales de API", "Salir")
     tarea_seleccionada = input("Ingresa el número de la tarea: ")
