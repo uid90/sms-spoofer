@@ -11,7 +11,7 @@ Esta utilidad te permite enviar SMS a cualquier número de teléfono desde cualq
 
 (En la carpeta extraida)
 3) pip install -r requirements.txt
-4) python sms_spoofer.py
+4) python main.py
 ```
 
 ## f.a.q
