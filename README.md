@@ -2,8 +2,6 @@
 Esta utilidad te permite enviar SMS a cualquier número de teléfono desde cualquier nombre con cualquier contenido (por ejemplo, enviar una notificación sobre un cambio de contraseña a través de SMS)  
 ([EJEMPO #1](https://i.imgur.com/SOmATqN.jpg), [EJEMPLO #2](https://i.imgur.com/Ll26s2U.jpg))
 
-![TEXTO](https://i.imgur.com/zsosj2D.png)
-
 ## instalacion
 ```
 1) Descarga python3
