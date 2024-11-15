@@ -22,6 +22,6 @@ Desafortunadamente, este programa es solo una utilidad que funciona con la API d
 Sí, soporta Unicode, por lo que el programa funciona tanto en inglés como en ruso, chino y otros idiomas.
 
 **(?) Puedo recibir una prohibición?**
-Sí, tu cuenta puede ser prohibida por Vonage si violas los [terms of use](https://www.vonage.com/legal/communications-apis/terms-of-use/)
+Sí, tu cuenta puede ser prohibida por Vonage si violas los [términos y condiciones](https://www.vonage.com/legal/communications-apis/terms-of-use/)
 
 
