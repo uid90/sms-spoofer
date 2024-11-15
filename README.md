@@ -5,7 +5,7 @@ Esta utilidad te permite enviar SMS a cualquier número de teléfono desde cualq
 ## instalacion
 ```
 1) Descarga python3
-2) Descarga y extrae SMS SPOODER.zip
+2) Descarga y extrae SMS SPOOFER.zip
 
 (En la carpeta extraida)
 3) pip install -r requirements.txt
